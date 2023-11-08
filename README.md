@@ -1,18 +1,9 @@
 # React Native/Expo Music App
 
-Music app for searching artists and playing previews using the Deezer API. Built from [Udemy Course](https://www.udemy.com/react-native-quickstart-build-real-app-with-deezer-api/)
+Music app for searching artists and playing previews using the Deezer API. Uses Code from  [Łukasz Kuś]([ttps://www.udemy.com/react-native-quickstart-build-real-app-with-deezer-api/](https://github.com/lukaszkus/react-native-music-app))
 
 ![Artist Search](albumsearch.jpg) ![Album Details](albumdetails.jpg)
 
-## Fastest way to run on phone:
-
-1. Install expo client app and scan this qr mark:
-
-![QRMark with expo URL](expoqrmark.png)
-
-_Typing @sschottler/music-app inside of Expo Client will also open this project_
-
-I didn't bother changing the default splash screen so it'll just be a blank square for a few seconds.
 
 ## To run code on your phone:
 
@@ -25,6 +16,4 @@ I didn't bother changing the default splash screen so it'll just be a blank squa
 
 **if it generates the wrong URL due to docker/virtualbox/etc. you can override that in the .env file**
 
-You can also build an android apk and skip the playstore and install directly on your phone with USB. Instructions here:
 
-https://docs.expo.io/versions/latest/distribution/building-standalone-apps
