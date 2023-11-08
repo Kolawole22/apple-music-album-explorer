@@ -1,6 +1,6 @@
 # React Native/Expo Music App
 
-Music app for searching artists and playing previews using the Deezer API. Uses Code from  [Łukasz Kuś]([https://www.udemy.com/react-native-quickstart-build-real-app-with-deezer-api/](https://github.com/lukaszkus/react-native-music-app))
+Music app for searching artists and playing previews using the Deezer API. Uses Code from  [Łukasz Kuś](https://www.udemy.com/react-native-quickstart-build-real-app-with-deezer-api/)(https://github.com/lukaszkus/react-native-music-app))
 
 ![Artist Search](albumsearch.jpg) ![Album Details](albumdetails.jpg)
 
